@@ -1,1 +1,19 @@
-![supabase-auth-thumb](https://github.com/user-attachments/assets/cc917884-5af3-4dc6-be1f-95312073340e)
+# Supabase Email Auth Context
+
+A lightweight and reusable authentication context built with React and Supabase. This module abstracts the Supabase email/password auth flow using React Context, allowing developers to manage authentication state and user sessions efficiently throughout a React application.
+
+## Project Overview
+
+This project provides a clean implementation of:
+
+- Email/password sign-up and sign-in
+- Authentication state management using React Context
+- Automatic session handling with Supabase
+- Functions for login, logout, and sign-up actions
+
+## Setup Instructions
+
+1. Clone the repository.
+2. Install dependencies using `npm install` or `yarn`.
+3. Create a `.env` file and add your Supabase credentials:
+

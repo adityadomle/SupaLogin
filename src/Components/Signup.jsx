@@ -9,7 +9,7 @@ const Signup = () => {
   const [loading, setLoading] = useState(false);
 
   const { signUpNewUser } = UserAuth();
-  const navigate = useNavigate();
+  const navigate = useNavigate(); 
 
   const handleSignUp = async (e) => {
     e.preventDefault();

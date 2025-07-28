@@ -27,7 +27,7 @@ const Dashboard = () => {
           className="hover:cursor-pointer  border inline-block px-4 py-3 mt-4 "
         >
           Sign out
-        </p>
+        </p> 
       </div>
     </div>
   );
