@@ -11,6 +11,10 @@ This project provides a clean implementation of:
 - Automatic session handling with Supabase
 - Functions for login, logout, and sign-up actions
 
+> ⚠️ **Note:** Deployment is currently disabled.  
+> To explore this project, please clone the repository and run it locally on your machine.
+
+
 ## Setup Instructions
 
 1. Clone the repository.
